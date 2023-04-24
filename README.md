@@ -14,12 +14,12 @@
 
 このリポジトリをクローンまたはダウンロードします。
 
-`git clone https://github.com/Asa-Shu/simple-go-web-server.git`
+`git clone https://github.com/Asa-Shu/go-server.git`
 
 プロジェクトのディレクトリに移動します。
-cd simple-go-web-server
+`cd simple-go-web-server`
 サーバーを起動します。
-go run main.go
+`go run main.go`
 Web ブラウザで http://localhost:8080 にアクセスして、静的ファイルが表示されることを確認します。
 
 form.html のフォームを埋め /form エンドポイントに POST リクエストとして送信します。フォームデータが適切に処理されることを確認します。
