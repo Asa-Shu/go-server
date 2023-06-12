@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/64985323/234057105-5c946157-1ee4-41af-
 
 `go run main.go`
 
-ブラウザで http://localhost:8080 にアクセスして、静的ファイルが表示されることを確認。
+ブラウザで　http://localhost:8080　にアクセスして、静的ファイルが表示されることを確認。
 
-form.htmlのフォームを埋め/form エンドポイントにPOSTリクエストとして送信。フォームデータが処理される。
+form.htmlのフォームを埋め/formエンドポイントにPOSTリクエストとして送信。フォームデータが処理される。
 
